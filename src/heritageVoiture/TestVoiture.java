@@ -29,6 +29,7 @@ public class TestVoiture {
 			System.out.println("\n***********PLEIN DU VEHICULE "+(i+1)+"*************\n");
 			vehicule[i].faireLePlein();
 			System.out.println("mon reservoir est actuellement a : "+vehicule[i].getCapaciteRestant());
+System.out.println(‘ coucou’) ; 
 			
 			
 			
